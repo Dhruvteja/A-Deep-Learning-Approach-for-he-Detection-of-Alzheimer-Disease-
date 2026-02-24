@@ -4,7 +4,7 @@
 
 This repository presents a deep learning-based approach for detecting **Alzheimer’s Disease (AD)** using MRI brain images. The project was developed as part of the Bachelor of Engineering (B.E.) degree in Computer Science and Engineering (2022–2023).
 
-> 📄 Full Project Documentation: 
+> 📄 Full Project Documentation: Alzheimer_s Documentation.pdf
 
 The system leverages the **DenseNet-169 architecture** and transfer learning techniques to classify MRI images into different stages of Alzheimer’s Disease.
 
